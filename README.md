@@ -1,3 +1,1 @@
-# Octocat
-working directory
-Initial the Octocat project
+Hello, this is Octocat
